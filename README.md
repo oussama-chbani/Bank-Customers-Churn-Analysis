@@ -86,8 +86,8 @@ We explore how customer activity and complaints relate to churn rates.
 ![](Churn_by_Points_Earned.png)
 
 --> Churn rates in relation to customer points earned indicated that customers with fewer points were more likely to churn.
-***
 
+***
 ## Conclusion
 The "Bank Customers Churn Analysis" project investigated the reasons behind customer churn in a fictitious bank. With a dataset comprising 18 fields and 10,000 rows, the analysis revealed several key insights. Notably, older customers and those in Germany exhibited higher churn rates. Active customers who hadn't lodged complaints were less likely to churn. Churn patterns were also influenced by factors such as card type, product ownership, satisfaction scores, and points earned. These findings offer actionable recommendations for reducing churn and enhancing customer retention.
 
