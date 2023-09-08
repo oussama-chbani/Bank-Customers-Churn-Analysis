@@ -35,7 +35,8 @@ The following key metrics were calculated to both help identify data quality iss
 
 ## Data Analysis and Visualizations
 
-### Analyzing Churn Patterns
+### ***Analyzing Churn Patterns***
+
 We begin by exploring how age relates to churn rates. Visualizing churn rates across different age groups helps us understand if certain age ranges are more prone to churning.
 
 ![](Churn_by_age.png)
@@ -45,28 +46,33 @@ We begin by exploring how age relates to churn rates. Visualizing churn rates ac
 ![](Churn_by_Tenure.png)
 
 --> Tenure (years as a bank client) was examined, indicating relatively consistent churn rates across all tenures.
+***
 
-### Examining Geographic Differences
+### ***Examining Geographic Differences***
+
 
 ![](Churn_by_Country.png)
 
 --> Geographical differences were explored using a map visualization, highlighting a significantly higher churn rate in Germany compared to France and Spain.
+***
 
-### Impact of Customer Activity and Complaints
+### ***Impact of Customer Activity and Complaints***
 
 We explore how customer activity and complaints relate to churn rates. 
 
 ![](Churn_by_active_members_and_complaints.png)
 
 --> Hypotheses regarding active customer status and complaints were confirmed through a heatmap. Active customers with no complaints were less likely to churn, while inactive customers with complaints were more likely to churn.
+***
 
-### Card Type and Churn
+### ***Card Type and Churn***
 
 ![](Churn_by_card_type.png)
 
 --> Churn rates were analyzed across card types and tenure. For customers with up to 7 years of tenure, gold cardholders exhibited the lowest churn rates, while diamond cardholders had the highest.
+***
 
-### Churn Across Product Ownership, Satisfaction Score, and Points Earned
+### ***Churn Across Product Ownership, Satisfaction Score, and Points Earned***
 
 ![](Churn_by_Number_of_Products.png)
 
