@@ -18,7 +18,7 @@ The primary challenge addressed in this project is to identify and understand th
 The dataset used for this analysis consists of 18 fields (columns) and 10,000 rows, representing customer information and behavior within the bank. Key columns in the dataset include customer demographics, credit scores, account balances, product ownership, tenure, and whether a customer has churned or not.
 
 ### Data Collection
-The data was sourced from an external dataset repository, specifically from Kaggle. It provides a snapshot of the bank's customer base, which forms the basis for our analysis.
+The dataset used for this analysis was obtained from Kaggle. You can access the dataset [here](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers).
 ***
 
 ## Data Cleaning / Transformation
@@ -34,6 +34,7 @@ The following key metrics were calculated to both help identify data quality iss
 ***
 
 ## Data Analysis and Visualizations
+You can explore the interactive visualizations and the complete dashboard on Tableau Public [here](https://public.tableau.com/views/BankCustomersChurnAnalysis_16941778446680/BankCustomersChurnAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ### ***Analyzing Churn Patterns***
 
